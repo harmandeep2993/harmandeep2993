@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harmandeep Singh</h1>
-<h3 align="center">Data Analytics Student</h3>
+<h1 align="center">Hi 👋, I'm HARMANDEEP SINGH</h1>
+<h3 align="center">DATA ANALYTICS STUDENT</h3>
 
-**Embrace the joy of learning, for every new piece of knowledge is a stepping stone towards a brighter, more empowered future"**
+***"Embrace the joy of learning, for every new piece of knowledge is a stepping stone towards a brighter, more empowered future"***
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harmandeep2993&label=Profile%20views&color=0e75b6&style=flat" alt="harmandeep2993" /> </p>
 
