@@ -1,7 +1,7 @@
-<h1 align="center">HEY 👋, I'm HARMANDEEP SINGH</h1>
+<h1 align="center">HARMANDEEP SINGH</h1>
 <h3 align="center">DATA ANALYTICS STUDENT</h3>
 
-***Embrace the joy of learning, for every new piece of knowledge is a stepping stone towards a brighter, more empowered future"***
+***"Embrace the joy of learning, for every new piece of knowledge is a stepping stone towards a brighter, more empowered future"***
 
 🔭: I'm currently working on **Imdb Movies Analysis**
 
