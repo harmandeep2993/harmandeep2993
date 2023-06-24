@@ -1,7 +1,9 @@
 <h1 align="center">HARMANDEEP SINGH</h1>
-<h3 align="center">DATA ANALYTICS STUDENT</h3>
 
 ***"Embrace the joy of learning, for every new piece of knowledge is a stepping stone towards a brighter, more empowered future"***
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harmandeep2993" alt="harmandeep2993" /></a> </p>
+
 
 🔭: I'm currently working on **Imdb Movies Analysis**
 
