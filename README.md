@@ -1,4 +1,4 @@
-![logo](https://github.com/harmandeep2993/harmandeep2993/blob/main/image.png)
+![logo](https://github.com/harmandeep2993/harmandeep2993/blob/main/github-header-image.png?raw=true)
 Greetings, data voyager!
 
 Welcome aboard my data analytics spaceship, where numbers dance, insights sparkle, and spreadsheets become intergalactic works of art. You've landed in the orbit of my GitHub profile, a celestial playground of data exploration and analytical wizardry.
