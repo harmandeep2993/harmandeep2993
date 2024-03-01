@@ -1,4 +1,4 @@
-![Header](https://github.com/harmandeep2993/harmandeep2993/blob/main/github-header-image.png?raw=true)
+
 # Hi there! I'm Harmandeep Singh, a master's student passionate about Machine Learning and Deep Learning.
 <h3 align="left" style="font-family: Times New Roman;">About Me</h3>
 <br>
