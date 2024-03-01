@@ -42,7 +42,3 @@
 </p><br> 
 
  ### Feel free to explore my projects and connect with me! Let's learn and build together! 🚀
-
-### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
