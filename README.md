@@ -1,4 +1,3 @@
-
 # Hi there! I'm Harmandeep Singh, a master's student passionate about Machine Learning and Deep Learning.
 <h3 align="left" style="font-family: Times New Roman;">About Me</h3>
 <br>
